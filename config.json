@@ -1,8 +1,8 @@
 {
 
  "Account": {
-"Username": "ooooo",
-     "Password": "itil"
+"Username": "aliuswa",
+     "Password": "akusayangsiti"
      },
  "Target Profit": "500",
  "Target Win": "1000",
@@ -19,7 +19,7 @@
      "Random Chance": {
           "Toggle": "ON",
           "Min": "5",
-          "Max": "30"
+          "Max": "35"
         },
      "Bet": {
           "Bet": "Hi",
@@ -61,9 +61,9 @@
      },{
 
      "Name Bet Set": "3 - Mining Chance 40 %",
-     "Base Bet": "0.024001111111111111",
+     "Base Bet": "0.014001111111111111",
      "Max Bet": "OFF",
-     "Chance": "40",
+     "Chance": "41",
      "Random Chance": {
           "Toggle": "OFF",
           "Min": "5",
